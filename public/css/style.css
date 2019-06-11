@@ -1,0 +1,39 @@
+body{
+    /*background: -webkit-linear-gradient(top, orange, yellow);*/
+    background: #eee;
+}
+.footer{
+    padding: 20px 10px;
+    
+}
+
+.footer  a, .footer  p, .footer h3,  .footer h5 {
+    color: #fff;
+}
+
+.order-detail{
+    background: #fff;
+}
+
+.product{
+    margin-bottom: 10px;
+    padding: 10px;
+    background: #fff;
+    border-radius: 10px;
+}
+
+.product > h3{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.product .price{
+    font-weight: 800;
+}
+
+.table-cart .table-responsive{
+    background: white;
+}
+.table-cart .table-responsive img{
+    max-height: 70px;
+}
